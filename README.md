@@ -11,11 +11,17 @@ Este proyecto resuelve estos problemas mediante la implementación de técnicas 
 
 ## Características  
 ✅ **Reconocimiento Facial**: Detecta y reconoce rostros en vivo o desde un video.
+
 ✅ **Reconocimiento de Gestos**: Identifica gestos de la mano y muestra un mensaje correspondiente.
+
 ✅ **Procesamiento en Tiempo Real**: Responde en milisegundos a la entrada de la cámara.
+
 ✅ **Optimización con OpenCV**: Uso de algoritmos eficientes para detección y clasificación.
+
 ✅ **Programación Concurrente**: Utiliza ThreadPoolExecutor para mejorar la ejecución en paralelo.
+
 ✅ **Uso de Semáforos**: Controla el acceso a la cámara para evitar bloqueos.
+
 ✅ **Procesamiento Recursivo de Contornos**: Filtra los contornos de manera eficiente para una detección más precisa.
 
 ## Instalación  
@@ -26,4 +32,7 @@ Este proyecto resuelve estos problemas mediante la implementación de técnicas 
    python ReconocimientoFacial.py
 4. Ejecutar el reconocimiento de gestos:
    python ReconocimientoGestos.py
+
+## Video Demostrativo
+https://youtu.be/3TjLDaggnIM
 

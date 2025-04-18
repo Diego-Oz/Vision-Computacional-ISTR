@@ -1,10 +1,10 @@
-# Vision-Computacional-ISTR
+# 🧠 Vision-Computacional-ISTR
 
 Este proyecto implementa un sistema de **reconocimiento facial y de gestos en tiempo real** utilizando Python y OpenCV. Fue desarrollado como parte de la materia **Software en Tiempo Real**, integrando conceptos clave como programación concurrente, sincronización, manejo de eventos y estructuras eficientes de procesamiento visual.
 
 ---
 
-## Problema abordado y solución
+## 🎯 Problema abordado y solución
 
 En entornos como seguridad, accesibilidad o interfaces sin contacto, se necesitan sistemas capaces de **reaccionar al instante** ante estímulos del entorno. Este sistema responde a ese reto mediante:
 
@@ -41,9 +41,10 @@ En entornos como seguridad, accesibilidad o interfaces sin contacto, se necesita
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tuusuario/Vision-Computacional-ISTR
+https://github.com/Diego-Oz/Vision-Computacional-ISTR.git
 
 # Instala las dependencias necesarias
 pip install opencv-contrib-python numpy imutils
+
 
 
